@@ -21,5 +21,10 @@ All the tests are located under GET_pokemonAPI.cy.js
 In cypress/tests/UI
 You can find all the UI tests.
 
+Reports:
+We can use "npm run cy:cloud" to view reports on cypress cloud.
+on this link:
+https://cloud.cypress.io/projects/36zmjx
+
 
 

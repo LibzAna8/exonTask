@@ -3,7 +3,8 @@
     "cypress": "^13.8.1"
   },
   "scripts": {
-    "cy:headless": "npx cypress run --record --key cb9729b5-b824-4164-a7c7-e87a7bf88fb3 --browser chrome",
+    "cy:headless": "npx cypress run --browser chrome",
+    "cy:cloud": "npx cypress run --record --key ebeccc32-4c00-42de-8642-e72b928f861f --browser chrome",
     "cy:e2e": "npx cypress open --browser chrome"
   }
 }
