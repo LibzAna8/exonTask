@@ -22,7 +22,8 @@ In cypress/tests/UI
 You can find all the UI tests.
 
 Reports:
-We can use "npm run cy:cloud" to view reports on cypress cloud.
+We can use "npm run cy:cloud" to view reports on cypress cloud. 
+You can view all on "latest run" and watch the test replay.
 on this link:
 https://cloud.cypress.io/projects/36zmjx
 
