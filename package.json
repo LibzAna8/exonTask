@@ -3,7 +3,7 @@
     "cypress": "^13.8.1"
   },
   "scripts": {
-    "cy:headless": "npx cypress run --browser chrome",
+    "cy:headless": "npx cypress run --record --key cb9729b5-b824-4164-a7c7-e87a7bf88fb3 --browser chrome",
     "cy:e2e": "npx cypress open --browser chrome"
   }
 }
