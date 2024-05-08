@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^13.8.1"
+  },
+  "scripts": {
+    "cy:headless": "npx cypress run --browser chrome",
+    "cy:e2e": "npx cypress open --browser chrome"
+  }
+}
